@@ -137,14 +137,6 @@ Currently pursuing my **M.Tech in Data Science** at **COEP Technological Univers
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rraj1411&show_icons=true&theme=dark" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraj1411&layout=compact&theme=dark" height="200" />
-</div>
-
----
 
 ## 📈 GitHub Activity Graph  
 
